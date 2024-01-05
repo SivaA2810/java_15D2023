@@ -1,0 +1,7 @@
+it is git created folder
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SivaA2810/java_15D2023.git
+git push -u origin main
